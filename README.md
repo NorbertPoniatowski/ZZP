@@ -1,0 +1,2 @@
+# ZZP
+Repozytorium przedmiotu ZZP
